@@ -30,3 +30,6 @@ Vermeidung von Überbeanspruchung einzelner Kondensatoren
 Erhöhung der Lebensdauer von Zwischenkreiskondensatoren
 
 Zuverlässige Spannungsverteilung im Betrieb und beim Laden/Entladen
+
+![IMG_20250624_133747](https://github.com/user-attachments/assets/96034b55-a9f4-4174-8296-7df304ae0174)
+
