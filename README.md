@@ -18,18 +18,10 @@ Kompatibel als steckbare Zusatzplatine für Wechselrichter
 
 Kompaktes, einlagiges oder doppelseitiges Layout für einfache Integration
 
-![Screenshot 2025-05-29 153419](https://github.com/user-attachments/assets/633cd053-93dc-477f-8dd8-6716633430bd)
-
-
-![Screenshot 2025-05-29 153442](https://github.com/user-attachments/assets/b7265934-e3e9-4d3b-a2df-8c73e4cba636)
-
-
 # Ziel des Projekts
 Vermeidung von Überbeanspruchung einzelner Kondensatoren
 
 Erhöhung der Lebensdauer von Zwischenkreiskondensatoren
 
 Zuverlässige Spannungsverteilung im Betrieb und beim Laden/Entladen
-
-![IMG_20250624_133747](https://github.com/user-attachments/assets/96034b55-a9f4-4174-8296-7df304ae0174)
 
